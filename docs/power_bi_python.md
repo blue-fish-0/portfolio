@@ -15,11 +15,10 @@
 ## Power BI Projects (PBIP)
 A Power BI Project (PBIP) defines a Power BI report using a folder of plain text files. By using PBIPs, we can edit Power BI reports using a programming language, such as Python.     
 
-```py
-📂project
- ┣ 📂.Report
- ┣ 📂.SemanticModel
- ┗ 📜.pbip
+```py title="project/"
+ 📂.Report
+ 📂.SemanticModel
+ 📜.pbip
 ```
 
 ### `.Report` folder  
