@@ -1,4 +1,4 @@
-# Editing Power BI reports using Python
+# Creating Power BI report pages using Python
 
 ## Summary
 
