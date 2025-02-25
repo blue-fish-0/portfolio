@@ -30,7 +30,7 @@ Defines the data tables that are used to create the data visualizations in the r
  ┗ 📜template_table.tmdl
 ```
 
-1. Each `.tmdl` file in the `tables` folder defines a semantic model table. 
+1. Each `.tmdl` file in the `tables` folder defines a semantic model table. For example, the file contains the Power Query M code that produces the table. 
 
 ### `.pbip` file
 A Power BI report such that changes made to the `.Report` and `.SemanticModel` folders will change the `.pbip` file. Furthermore, changes made to the `.pbip` file using the Power BI GUI will change the `.Report` and `.SemanticModel` folders. 
