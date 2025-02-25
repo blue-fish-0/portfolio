@@ -166,7 +166,7 @@ edit_visual_json("page_1", "table_1")
     "Entity": "table_1",
     ```   
 
-## Edited Power BI Report
+## New report pages
 
 === "before"
     ![](images/pbip_before.png){width="900"}
