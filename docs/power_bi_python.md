@@ -7,7 +7,7 @@
 !!! abstract ""
     :fontawesome-solid-triangle-exclamation: **Problem:** The analytics team needed to create hundreds of Power BI report pages, each presenting the data of a different database query. 
 
-    :material-lightbulb-on-10: **Solution:** I wrote a Python script to automate the creation of the Power BI report pages from a template report page. 
+    :material-lightbulb-on-10: **Solution:** I wrote a Python script to automate the creation of the Power BI report pages by editing the files in a Power BI Project folder. 
 
     :octicons-graph-16: **Results:** The Python script saved days of work for my team. Without the script, we would have had to manually create the report pages using the Power BI graphical user interface. 
 
